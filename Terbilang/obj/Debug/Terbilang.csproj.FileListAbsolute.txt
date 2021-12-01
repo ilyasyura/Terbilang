@@ -1,0 +1,8 @@
+E:\Ilyas\Learning VS\repos\Terbilang\Terbilang\bin\Debug\Terbilang.exe.config
+E:\Ilyas\Learning VS\repos\Terbilang\Terbilang\bin\Debug\Terbilang.exe
+E:\Ilyas\Learning VS\repos\Terbilang\Terbilang\bin\Debug\Terbilang.pdb
+E:\Ilyas\Learning VS\repos\Terbilang\Terbilang\obj\Debug\Terbilang.csproj.AssemblyReference.cache
+E:\Ilyas\Learning VS\repos\Terbilang\Terbilang\obj\Debug\Terbilang.csproj.SuggestedBindingRedirects.cache
+E:\Ilyas\Learning VS\repos\Terbilang\Terbilang\obj\Debug\Terbilang.csproj.CoreCompileInputs.cache
+E:\Ilyas\Learning VS\repos\Terbilang\Terbilang\obj\Debug\Terbilang.exe
+E:\Ilyas\Learning VS\repos\Terbilang\Terbilang\obj\Debug\Terbilang.pdb
